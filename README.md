@@ -3,6 +3,6 @@ Hi! I'm Miko, a passionate Web and Native app developer who specialises in using
 I'm currently studying Computer Science at the Polish Japanese Academy of Information Technology.
 
 ### Contact Me:
-Email 📧: [mikolajzyzanski@gmail.com](mikolajzyzanski@gmail.com)
+Email 📧: [mikolajzyzanski@gmail.com](mailto:mikolajzyzanski@gmail.com)
 
 Website 🕸: [mikozyz.dev](https://www.mikozyz.dev)
