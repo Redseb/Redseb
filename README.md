@@ -5,4 +5,4 @@ I'm currently studying Computer Science at the Polish Japanese Academy of Inform
 ### Contact Me:
 Email 📧: [mikolajzyzanski@gmail.com](mikolajzyzanski@gmail.com)
 
-Website 🕸: [mikozyz.dev](mikozyz.dev)
+Website 🕸: [mikozyz.dev](https://www.mikozyz.dev)
