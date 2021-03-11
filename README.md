@@ -1,5 +1,5 @@
 ### PJATK Contact Info:
-Mikołaj Zyzański Group 14c
+Mikołaj Zyzański s20961 Group 14c
 
 ### I like to program cool things 👨‍💻
 Hi! I'm Miko, a passionate Web and Native app developer who specialises in using React and React Native.
