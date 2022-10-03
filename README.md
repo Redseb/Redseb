@@ -1,6 +1,6 @@
 ### I like to program cool things 👨‍💻
 Hi! I'm Miko, a passionate Web and Native app developer who specialises in using React and React Native.
-I'm currently studying Computer Science at the Polish Japanese Academy of Information Technology.
+I'm currently working as a Junior React Native Developer at Iterators, and studying Computer Science at the Polish Japanese Academy of Information Technology.
 
 Currently working on my thesis 📈: [sick.cash](https://www.sick.cash)
 
